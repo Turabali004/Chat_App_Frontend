@@ -8,9 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-  },
-  "engines": {
-  "node": "18.x"
+  },"engines": {
+  "node": "22.x"
 },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.3",
