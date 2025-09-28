@@ -146,11 +146,11 @@ const Auth = () => {
             <div className="flex items-center justify-center space-x-6 text-sm">
               <div className="flex items-center space-x-2">
                 <Sparkles className="w-5 h-5" />
-                <span>Real-time messaging</span>
+                <span>Real-time Messaging</span>
               </div>
               <div className="flex items-center space-x-2">
                 <User className="w-5 h-5" />
-                <span>Profiles</span>
+                <span>User Profiles</span>
               </div>
             </div>
           </div>
