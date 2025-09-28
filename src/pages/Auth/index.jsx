@@ -150,7 +150,7 @@ const Auth = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <User className="w-5 h-5" />
-                <span>User profiles</span>
+                <span>Profiles</span>
               </div>
             </div>
           </div>
